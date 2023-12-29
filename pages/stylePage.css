@@ -1,0 +1,76 @@
+#PageList{
+    margin-top: 100px;
+    width: 100.9%;
+    background-color: white;
+}
+#box{
+    padding-left: 23%;
+    padding-right: 27%;
+    padding-top: 50px;
+}
+#box h2{
+    font: bold 35px "Trebuchet MS", sans-serif;
+    padding-bottom: 30px;
+}
+#box p{
+    font: 13px "Trebuchet MS", sans-serif;
+    padding-bottom: 20px;
+    margin: 0 0 0 0;
+}
+#box #red{
+    color: #ff0000;
+}
+#box ul{
+    padding-left: 20px;
+    font: 13px "Trebuchet MS", sans-serif;
+    margin: 0 0 0 0;
+    padding-bottom: 20px;
+}
+#Page_bod{
+    background-image: url(../Carousel_1.jpg);
+    background-size: cover;
+    transition: all 1000ms ease;
+    transition-delay: 200ms;
+    width: 100%;
+    margin-left: -10px;
+    padding-right: 18px;
+}
+.spisok{
+    padding-bottom: 0;
+}
+#blue{
+    color:#3366ff;
+}
+tbody{
+    display: table-row-group;
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid gray;
+    width: 900px;
+}
+tr{
+    display: table-row;
+    border: 2px solid gray;
+}
+td{
+    display: table-cell;
+    vertical-align: inherit;
+    border: 2px solid gray;
+    align-items: center;
+}
+table div{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin: 0 0 0 0;
+    padding-left: 0%;
+    text-align: center;
+}
+table .tableP p{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+table .cost{
+    padding-left: 40px;
+    padding-right: 40px;
+}
